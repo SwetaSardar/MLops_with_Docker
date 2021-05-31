@@ -1,6 +1,6 @@
 <div align=center >
 
-<h1> MLOps_on_Docker </h1>
+<h1> MLOps_with_Docker </h1>
 
 </div>
 
